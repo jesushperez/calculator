@@ -3,11 +3,10 @@
 }
 
 body {
-  background-image: url('/img/background.jpg');
+  background-image: url('../img/background.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom left;
-  //background-color: firebrick;
   font-size: 1.4rem;
   font-family: 'Gayathri', sans-serif;
   height: 100vh;
@@ -26,7 +25,6 @@ body {
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  //padding-top: 100px;
   box-shadow: 5px 5px 10px #333333;
 }
 
